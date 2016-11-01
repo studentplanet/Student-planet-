@@ -1,4 +1,4 @@
 <!DOCTYPE html>
-<h1>Student Planet</h1>
+<h1><strong> Student Planet</strong> </h1>
 <p> website </p> 
 
